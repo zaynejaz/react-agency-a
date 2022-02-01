@@ -11,6 +11,10 @@ import PieChart from 'components/icons/pie-chart';
 import Suitcase from 'components/icons/suitcase';
 import BarChart from 'components/icons/bar-chart';
 import dashboard from 'assets/images/dashboard.png';
+import dashboard2 from 'assets/images/dashboard2.png';
+import dashboard3 from 'assets/images/dashboard3.png';
+import dashboard4 from 'assets/images/dashboard4.png';
+import dashboard5 from 'assets/images/dashboard5.png';
 
 const data = [
   {
@@ -40,7 +44,7 @@ const data = [
     ],
     tabContent: [
       {
-        image: dashboard,
+        image: dashboard2,
         title: `Mastering the basics of collaboration like never before`,
         description: `The clear way to share complex information. Explain a task's purpose. Brainstorm open-mindedly. Evaluate the ideas together. Make a decision. Evaluate the results.`,
         readMore: '#introduce-quality',
@@ -57,7 +61,7 @@ const data = [
     ],
     tabContent: [
       {
-        image: dashboard,
+        image: dashboard3,
         title: `Reports offering both information and analysis, but also include recommendations`,
         description: `Analytical reporting tailored for you business reports that uses qualitative and quantitative data to analyze as well as evaluate a business strategy or process while empowering your team to make data-driven decisions based on evidence and analytics`,
         readMore: '#introduce-quality',
@@ -74,7 +78,7 @@ const data = [
     ],
     tabContent: [
       {
-        image: dashboard,
+        image: dashboard4,
         title: `Reduce costs that leading to higher profits and succeed against your competition`,
         description: `Smarter analysis through improved data modeling, machine learning and artificial intelligence will help identify best-fit digital tools and innovative approaches that improve efficiency, productivity and performance of any organization`,
         readMore: '#introduce-quality',
@@ -91,7 +95,7 @@ const data = [
     ],
     tabContent: [
       {
-        image: dashboard,
+        image: dashboard5,
         title: `Customize your dashboards and widgets for the best account overview`,
         description: `Every view in Analytics comes with a default "My Dashboard." While the default Dashboard may suffice, the real usefulness of Dashboards lies in your ability to create and customize them the way you want to give you an overview of the dimensions and metrics you care about most`,
         readMore: '#introduce-quality',
