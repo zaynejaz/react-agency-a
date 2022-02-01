@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://ze-react-agency-a.vercel.app',
+  siteUrl: 'https://react-agency-a.vercel.app',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
