@@ -17,7 +17,7 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <Layout>
         <SEO
-          title="Agency Alpha Page"
+          title="The Alpha Agency"
           description="A react landing page build with Next JS"
         />
         <Banner />
